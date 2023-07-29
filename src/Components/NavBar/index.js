@@ -17,7 +17,7 @@ function NavBar() {
         </ListItems>
       </div>
       <Container>
-        <InputField type="text" name="" placeholder="search" />
+        <InputField type="text" name="input" placeholder="search" />
         <Button type="button">
           <img src={search} width ="10px" height = "10px"/>
         </Button>

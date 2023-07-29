@@ -2,7 +2,7 @@ import React from 'react'
 import { Button } from '../Header.style';
 import { Paragraph } from './content.style';
 
-function MainContent() {
+function HeroBanner() {
   return (
     <div>
         <Paragraph>
@@ -21,4 +21,4 @@ function MainContent() {
   )
 }
 
-export default MainContent;
+export default HeroBanner;

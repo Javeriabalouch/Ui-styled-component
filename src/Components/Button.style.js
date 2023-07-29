@@ -7,6 +7,8 @@ color: ${props => props.textColor || 'white'};
 font-size: ${props => props.fontSize || '16px'};
 padding: 10px 20px;
 border: none;
-border-radius: 4px;
+border-radius: 5px;
 cursor: pointer;
+marin: 1px
+
 `
