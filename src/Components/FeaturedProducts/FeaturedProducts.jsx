@@ -5,6 +5,7 @@ const FeaturedProducts = () => {
     <>
       <div>FeaturedProducts</div>
       <div>and more details will be display here later</div>
+      <div>fhfhfd</div>
     </>
   );
 };
