@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import NavBar from "./Components/NavBar";
-import HeroBanner from "./Components/HeroBanner.js";
+import HeroBanner from "./Components/HeroBanner";
 
 function App() {
   return (
