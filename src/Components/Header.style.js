@@ -36,12 +36,18 @@ height:20px;
 `
 
 export const Button = styled.button`
-background-color:pink;
+background-color:#FB1779;
 color:white;
 
 `
 export const Container = styled.div`
+ 
 display: flex;
-border:1px solid white;  
+border: 1px solid white;
+background-color: ${(props) => props.backgroundColor || "F2F0FF"};
+width: ${(props) => props.width || ""};
+height: ${(props) => props.height || ""};
+flex-direction:${(props) => props.flexDirection || ""};
+
 
 `
