@@ -18,6 +18,7 @@ function FeaturedProduct() {
           <p>Code - Y523201</p>
           <p>$42.00</p>
           <p>$42.00</p>
+          <h6>abc</h6>
         </Content>
       </Card>
     </div>
